@@ -25,6 +25,14 @@ Virtualization route, setting up your environment:
 
 2. Create Virtual Machines (VMs) for different components of your SOC. You can simulate various systems such as:
 
- Attacker Machine: Kali Linux or Parrot OS for penetration testing tools.
- Victim Machine: Windows and Linux OSes for simulating vulnerable systems.
- Security Tools and Servers: A SIEM (like Splunk)
+ - Attacker Machine: Kali Linux or Parrot OS for penetration testing tools.
+ - Victim Machine: Windows and Linux OSes for simulating vulnerable systems.
+ - Security Tools and Servers: A SIEM (like Splunk)
+
+
+
+
+
+
+<img width="1200" alt="Screenshot 2025-02-19 18591884" src="https://github.com/user-attachments/assets/1aceccdd-5168-4445-8990-88fb22dd6324" />
+
