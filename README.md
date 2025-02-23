@@ -1,4 +1,4 @@
-# Home-Lab
+# Basic SOC Home-Lab
 
 ## Objective
 
